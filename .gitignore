@@ -1,0 +1,8 @@
+# video 
+*.json
+*.mp4
+__pycache__
+# model weight
+*.pth
+# TensorBoard
+/log/CarRacing/td3_test/*
